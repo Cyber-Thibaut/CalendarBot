@@ -21,7 +21,7 @@
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/CalendarBot.git
+   git clone https://github.com/Cyber-Thibaut/CalendarBot.git
    cd CalendarBot
    ```
 
